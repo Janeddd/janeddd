@@ -1,0 +1,83 @@
+body{
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/829076951163275833/B761E481C48C5A96C90E7F1D309CB20F167DD3E7/");
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+
+h1{
+  color: #000000;
+  list-style-type: square;
+  background: #CD5C5C;
+  padding:40px;
+  border-color: #A52A2A;
+  border-style: solid;
+  box-shadow: 3px 2px 4px 1px #afbec9;
+  }
+
+
+/* Navbar */
+
+.nav {
+  
+  background:#FFB6C1 ;
+  padding:5px;
+  border-color:#EE82EE;
+  border-style: solid;
+}
+
+.nav-item {
+  padding: 5px;
+}
+
+.nav-item:hover, .active {
+  background:#ffffff;
+}
+
+.nav-link, .nav-link:hover {
+  
+  color:#B22222 ;
+  font: bold 14px sans-serif;
+}
+src{
+  width: 350px;
+  margin:7px 7px 7px 0; ;
+  border-radius: 12px;
+  box-shadow: 3px 2px 2px 1px #3c3d40;
+  margin: 7px 7px 7px 0;
+}
+#content {
+ color: #000000;
+  list-style-type: square;
+  background: #ff99a4;
+  padding:40px;
+  border-color: #A52A2A;
+  border-style: solid;
+  box-shadow: 3px 2px 4px 1px #afbec9;
+  
+  }
+}
+h3 {
+  font-family: "Segoe UI";
+  font-size: 28px;
+  font-weight: 500;
+  margin; 5px;
+  text-align: center;
+  padding-left: 25px;
+}
+p {
+  font-size:18px;
+  font-family: "Segoe UI";
+  text-align: justify;
+  margin: 20px;
+}
+.text-dark, h1 {
+  color: #1f1b4a;
+  font-size: 50px;
+  font-family: "Segoe UI";
+}
+.footer {
+font-family: "montserrat-light", sans-serif;
+text-align: center;
+}
+.topNubex { position: fixed; right: 45px; bottom: 45px; }
